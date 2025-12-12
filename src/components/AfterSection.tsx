@@ -49,7 +49,7 @@ export default function AfterSection() {
             
             <div className="mt-6 pt-6 border-t border-primary-200">
               <p className="text-sm text-gray-600">
-                <span className="font-semibold">Harga:</span> Gratis untuk 1 pengguna + fitur dasar
+                <span className="font-semibold">Harga:</span> Mulai dari 300 ribu (menggunakan domain .my.id dan .site)
               </p>
               <p className="text-sm text-gray-600 mt-2">
                 <span className="font-semibold">Siapa cocok:</span> Warung, online shop, jasa freelance, kedai kopi
@@ -84,7 +84,7 @@ export default function AfterSection() {
             
             <div className="mt-6 pt-6 border-t border-white/20">
               <p className="text-sm text-primary-100">
-                <span className="font-semibold">Harga:</span> Mulai Rp 150.000/bulan untuk 5 pengguna
+                <span className="font-semibold">Harga:</span> Mulai dari Rp 1.500.000 (menggunakan domain .com)
               </p>
               <p className="text-sm text-primary-100 mt-2">
                 <span className="font-semibold">Siapa cocok:</span> Distributor, retail chain, pabrik kecil, agency
@@ -97,7 +97,7 @@ export default function AfterSection() {
           <div className="rounded-xl bg-primary-50 border border-primary-200 p-6">
             <p className="text-lg font-semibold text-gray-900">💡 Yang Terbaik?</p>
             <p className="mt-2 text-gray-700">
-              Transisi dari "Baru Mulai" ke "Berkembang" hanya butuh 1 klik. Tidak perlu migrate data, tidak perlu beli software baru, tidak perlu training dari nol.
+              Transisi dari "Baru Mulai" ke "Berkembang" hanya butuh 1 klik. Tidak perlu menggunakan banyak software.
             </p>
           </div>
         </div>
