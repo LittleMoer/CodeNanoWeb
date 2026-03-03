@@ -1,1 +1,0 @@
-Add your brand assets (logos, images) here. Placeholders used in components should be replaced with your own media.
